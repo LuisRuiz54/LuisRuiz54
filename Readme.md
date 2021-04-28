@@ -29,3 +29,13 @@ training  as a web developer and I am currently learning more about this digital
 <img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
 
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuiz54&layout=compact&theme=midnight-blue"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=LuisRuiz54&show_icons=true&count_private=true&theme=midnight-blue" />
+        </td>
+    </tr>   
+</table>
