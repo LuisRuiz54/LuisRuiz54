@@ -14,7 +14,8 @@
 </a>
 
 <h1>Hello people of the world!!:earth_americas::raising_hand_man:</h1>I am Luis Ruiz a Venezuelan economist fan of programming, who lives in Rio de Janeiro. I have 
-training  as a web developer and I am currently learning more about this digital world every day. Now I invite you to see my repositories and follow my social networks.
+training  as a web developer and I am currently learning more about this digital world every day. Now I invite you to see my repositories and follow my  social    networks.
+
 
 <a href="https://www.linkedin.com/in/luis-alberto-ruiz-g%C3%B3mez-5949291ab/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
