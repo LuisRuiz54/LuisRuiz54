@@ -1,7 +1,8 @@
 <h1>Hola gente del mundo!!:earth_americas::raising_hand_man:</h1>Soy Luis Ruiz un economista venezolano fan de programar que vive actualmente en Rio de Janeiro, tengo formación como desarrollador Wed y actualmente estoy aprendiendo cada dia más sobre este mundo digital. los invito a ver mis repositorios y seguir mis redes sociales.
 
 <h1>Hello people of the world!!:earth_americas::raising_hand_man:</h1>I am Luis Ruiz a Venezuelan economist fan of programming, who lives in Rio de Janeiro. I have 
-training  as a web developer and I am currently learning more about this digital world every day. Now I invite you to see my repositories and follow my  social networks.
+training  as a web developer and I am currently learning more about this digital world every day. Now I invite you to see my repositories and follow my  social networks...
+..
 
 
 <a href="https://www.linkedin.com/in/luis-alberto-ruiz-g%C3%B3mez-5949291ab/" target="_blank">
