@@ -5,16 +5,16 @@ training  as a web developer and I am currently learning more about this digital
 
 
 <a href="https://www.linkedin.com/in/luis-alberto-ruiz-g%C3%B3mez-5949291ab/" target="_blank">
-<img align="center" alt="luis-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="luis-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UCwo2yg0_7hB7APbRc_lxH9w" target="_blank">
-<img align="center" alt="luis-youtube" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width:100%;">
+<img align="center" alt="luis-youtube" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/bboysiul/" target="_blank">
-<img align="center" alt="luis-instagram" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="luis-instagram" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/luisalberto.ruiz.75/" target="_blank">
-<img align="center" alt="luis-instagram" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
+<img align="center" alt="luis-instagram" height="40" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
 
 
