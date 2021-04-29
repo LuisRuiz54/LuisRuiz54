@@ -1,4 +1,4 @@
-<img src="./assets/BBOYSIUL.png">
+<img src="![BBOYSIUL ](https://user-images.githubusercontent.com/67405159/116493154-7787e700-a874-11eb-9859-bcfe4413e0ba.png)">
 
 <h1>Hola gente del mundo!!:earth_americas::raising_hand_man:</h1>Soy Luis Ruiz un economista venezolano fan de programar que vive actualmente en Rio de Janeiro, tengo formación como desarrollador Wed y actualmente estoy aprendiendo cada dia más sobre este mundo digital. los invito a ver mis repositorios y seguir mis redes sociales.
 
