@@ -22,10 +22,10 @@ training  as a web developer and I am currently learning more about this digital
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuiz54&layout=compact&theme=oscuro"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRuiz54&layout=compact&theme=tokyonight" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=LuisRuiz54&show_icons=true&count_private=true&theme=oscuro" />
+            <img src="https://github-readme-stats.vercel.app/api?username=LuisRuiz54&show_icons=true&count_private=true&theme=tokyonight" />
         </td>
     </tr>   
 </table>
